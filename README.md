@@ -1,12 +1,10 @@
 This is a POC to test:
 
-* [dblink](https://www.postgresql.org/docs/9.6/static/dblink.html)
+* [postgres_fdw](https://www.postgresql.org/docs/9.6/static/postgres-fdw.html)
 * and [Trigger Procedures](https://www.postgresql.org/docs/9.6/static/plpgsql-trigger.html)
 
 to insert some datas on remote [Postgresql](https://en.wikipedia.org/wiki/PostgreSQL) when data are
 inserted on local database.
-
-TODO: test the same think with [postgres_fdw](https://www.postgresql.org/docs/9.6/static/postgres-fdw.html)
 
 
 ```
